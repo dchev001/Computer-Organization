@@ -15,4 +15,4 @@ BR nzp pc-10
 LD R0 pc+4
 ADD R0 R0 R2
 TRAP 21
-TRA 25
+TRAP 25
